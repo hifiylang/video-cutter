@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+kafka-python
+requests
+tos
+pydantic
+tenacity
+python-dotenv
